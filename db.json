@@ -1,4 +1,5 @@
-{'loans':[
+{
+  "loans":[
   {
     "loanId": "105069394",
     "propertyAddress": "123 Elm Street, Springfield, IL",
