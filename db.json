@@ -4,65 +4,11 @@
     "propertyAddress": "123 Elm Street, Springfield, IL",
     "nextTaxDueDate": "2024-12-01T00:00:00Z",
     "balance": 250000,
-    "contacts": [
-      {
-        "name": "John Doe",
-        "phone": "555-1234",
-        "email": "john.doe@example.com"
-      },
-      {
-        "name": "Jane Smith",
-        "phone": "555-5678",
-        "email": "jane.smith@example.com"
-      },
-      {
-        "name": "Alice Johnson",
-        "phone": "555-8765",
-        "email": "alice.johnson@example.com"
-      },
-      {
-        "name": "Bob Brown",
-        "phone": "555-4321",
-        "email": "bob.brown@example.com"
-      },
-      {
-        "name": "Charlie Davis",
-        "phone": "555-1357",
-        "email": "charlie.davis@example.com"
-      }
-    ]
   },
   {
     "loanId": "105069395",
     "propertyAddress": "456 Oak Avenue, Lincoln, NE",
     "nextTaxDueDate": "2024-11-15T00:00:00Z",
     "balance": 320000,
-    "contacts": [
-      {
-        "name": "David Evans",
-        "phone": "555-2468",
-        "email": "david.evans@example.com"
-      },
-      {
-        "name": "Eva Green",
-        "phone": "555-9753",
-        "email": "eva.green@example.com"
-      },
-      {
-        "name": "Frank Harris",
-        "phone": "555-8642",
-        "email": "frank.harris@example.com"
-      },
-      {
-        "name": "Grace Lee",
-        "phone": "555-3141",
-        "email": "grace.lee@example.com"
-      },
-      {
-        "name": "Henry King",
-        "phone": "555-6284",
-        "email": "henry.king@example.com"
-      }
-    ]
   }
 ]
